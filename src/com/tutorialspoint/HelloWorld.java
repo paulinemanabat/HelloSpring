@@ -11,7 +11,7 @@ public class HelloWorld {
 	public void setMessage(String message) {
 		this.message = message;
 	}
-	// TEST
+	// TEST AGAIN
 	public void getMessage2() {
 		System.out.println("Your message :" + message2);
 	}
